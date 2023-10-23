@@ -1,0 +1,19 @@
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
+
+body {
+  @apply bg-background; 
+}
+
+p {
+  @apply text-lg text-paragraph;
+}
+
+h1 {
+  @apply text-3xl text-blue;
+}
+
+span {
+  @apply text-blue;
+}
