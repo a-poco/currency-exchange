@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testExecutions version="1">
+  <file path="/Users/cristinasalazar/Desktop/test/server/src/index.test.js">
+    <testCase name="API Endpoints /api/country/:name should fetch country data for valid country name" duration="487"/>
+    <testCase name="API Endpoints /api/country/:name should support only countries with euro" duration="114"/>
+    <testCase name="API Endpoints /api/convert/SEK/:amount should convert valid SEK amount to EUR" duration="288"/>
+    <testCase name="API Endpoints /api/login should return JWT token for valid credentials" duration="5"/>
+    <testCase name="API Endpoints /api/login should return 401 for invalid credentials" duration="3"/>
+  </file>
+</testExecutions>
